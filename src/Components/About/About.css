@@ -1,0 +1,26 @@
+.About {
+    display: flex;
+    justify-content: space-between;
+    padding: 10rem;
+    gap: 5rem;
+}
+
+.CardContainer {
+    width: 50%;
+}
+
+.CardContainer .tituloContainer {
+    font-weight: 600;
+    font-size: 3rem;
+    display: flex;
+    justify-content: center;
+}
+
+.CardContainer .descripcion {
+    text-align: justify;
+    padding: 2rem;
+}
+
+.imagenContainer .imgAbout {
+    width: 25rem;
+}
