@@ -65,6 +65,17 @@ function Contacto() {
           </VStack>
         </Box>
       </Flex>
+        <Box mt={10} w="100%">
+        <iframe
+          title="Ubicación"
+          src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3282.998637668478!2d-58.381559!3d-34.603684!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x95bccb5d8d1d9e2f%3A0x0!2zMzTCsDM2JzEzLjMiUyA1OMKwMjMnMDMuNiJX!5e0!3m2!1ses!2sar!4v1694461200000!5m2!1ses!2sar"
+          width="100%"
+          height="400"
+          style={{ border: 0 }}
+          allowFullScreen=""
+          loading="lazy"
+        ></iframe>
+      </Box>
     </Box>
   );
 }

@@ -6,6 +6,7 @@ import Footer from './Components/Footer/Footer'
 import Contacto from './Components/Formulario/Formulario'
 import NavPrincipal from './Components/Navbar/Navbar'
 import MisProductos from './Components/Productos/Productos'
+import Envios from './Components/Envios/Envios'
 
 
 
@@ -20,6 +21,7 @@ function App() {
       <AboutMe />
       <Caracteristicas />
       <MisProductos />
+       <Envios />  
       <Contacto />
       <Footer />
 

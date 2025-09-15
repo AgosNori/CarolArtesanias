@@ -4,3 +4,9 @@
 .btnEnviar:hover{
     background-color: #c77c77;
 }
+iframe {
+  display: block;
+  width: 100%;
+  max-width: 100%;
+  border-radius: 8px;
+}
