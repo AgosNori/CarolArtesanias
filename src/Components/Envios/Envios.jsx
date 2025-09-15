@@ -25,12 +25,12 @@ const Envios = () => {
           <p>Podés retirar gratis en nuestro local.</p>
         </div>
       </div>
-        <div className="envios-correos">
+      <div className="envios-correos">
         <h3 className="correos-title">Trabajamos con:</h3>
         <div className="correos-logos">
-          <img src="/img/correo-argentino.png" alt="Correo Argentino" />
-          <img src="/img/oca.png" alt="OCA" />
-          <img src="/img/andreani.png" alt="Andreani" />
+          <img src="../src/assets/Correo_Argentino_Logo.svg.png" alt="Correo Argentino"  />
+          <img src="../src/assets/correo-oca-logo-png_seeklogo-507837-removebg-preview.png" alt="OCA" />
+          <img src="../src/assets/Logo-Andreani-removebg-preview.png" alt="Andreani" />
         </div>
       </div>
     </section>

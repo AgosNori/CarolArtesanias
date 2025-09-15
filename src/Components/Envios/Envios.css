@@ -1,5 +1,6 @@
 .envios {
   padding: 60px 20px;
+  margin:5rem 0 0 0 ;
   background-color: #f9f9f9;
   text-align: center;
     background-color: #ad9c83;
@@ -72,8 +73,8 @@
 }
 
 .correos-logos img {
-  max-width: 120px;
-  height: auto;
+  max-width: 160px;
+  height: 60px;
   transition: transform 0.2s ease-in-out;
 }
 
